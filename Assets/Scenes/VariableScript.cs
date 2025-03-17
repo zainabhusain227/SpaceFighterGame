@@ -6,6 +6,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
     public int x;
+    public string planetname;
     void Start()
     {
         x = 3;
